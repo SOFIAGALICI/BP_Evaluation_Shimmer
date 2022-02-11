@@ -3,7 +3,7 @@ Hypertension (the ‘silent killer’) is one of the main risk factors for cardi
 This approach can be considered the first step for the integration of this type of algorithms on wearable devices, in particular on the devices developed for SINTEC project.
 
 ## Folder organization
-To test the code related to the SHIMMER database, an example is provide. Files are organized according the following description:
+To test the code related to the SHIMMER database, an example is provide. Files are organized according to the following description:
 * **SINTEC_proj**: .py file containing the Python code.
 * **Files**: zip folder containing:
    * **Prova_Sofia**: a .csv file with the timestamp values (1st column) and the control SBP (2nd column) and DBP (3rd column) values; 
